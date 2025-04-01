@@ -1,0 +1,13 @@
+name = "Particular ✨ Reforged"
+filename = "particular-1.20.1-Forge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/8Uu0KZZR/particular-1.20.1-Forge-1.0.1.jar"
+hash-format = "sha1"
+hash = "da1e4e0bb089f1c65b1b393c6d76a3f9a0abf19a"
+
+[update]
+[update.modrinth]
+mod-id = "pYFUU6cq"
+version = "8Uu0KZZR"

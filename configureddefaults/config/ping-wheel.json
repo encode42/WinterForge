@@ -1,0 +1,17 @@
+{
+  "pingVolume": 10,
+  "pingDuration": 5,
+  "pingDistance": 512,
+  "correctionPeriod": 1.0,
+  "itemIconVisible": true,
+  "directionIndicatorVisible": true,
+  "nameLabelForced": false,
+  "pingSize": 100,
+  "channel": "",
+  "removeRadius": 10,
+  "raycastDistance": 256,
+  "safeZoneLeft": 5,
+  "safeZoneRight": 5,
+  "safeZoneTop": 5,
+  "safeZoneBottom": 60
+}
