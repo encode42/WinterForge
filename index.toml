@@ -306,7 +306,7 @@ hash = "4c809d06cb6c0ab89f912b63a109101ada305c6edf81eb2ed489928567d5ee56"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "d466bf237e663a8261ed73630ad25212ddf3e2c4b0afad28f65879976ac0b290"
+hash = "841786e5d964a642a0e5f0c97ce5bb4461ff83dbc74b1e6478cabec5a5f5b2cf"
 
 [[files]]
 file = "configureddefaults/servers.dat"

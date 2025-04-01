@@ -1,12 +1,12 @@
 name = "Winter Forge"
 author = "encode42"
-version = "2.4.1"
+version = "2.4.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b286dd3fbbb3a0de43ff6a20c28512ceb0070840d0254790a4365ac4e53f4a77"
+hash = "c6800369dbd8e4f4e0eaeeaf2687fe0398a1a17aaa682d108f45c8a71675ece9"
 
 [versions]
 forge = "47.4.0"
