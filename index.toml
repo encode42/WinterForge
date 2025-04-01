@@ -41,18 +41,6 @@ file = "config/creeperrebalance-common.toml"
 hash = "5c560126b89c7850818174a4e9dc3927710848936cbcc323238cd4e769050fa6"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "7580a48f31d550efe0eb089c1c4940169787a39b55057ce355f6b061711c1aee"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "3036e90419878621d225378a49f73179015193e6fdd248c02066d64ab7801e71"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "17cf7c29141d233b8ba3ced4958f1246ee76c5ca488029ecd62a29e46083bd24"
-
-[[files]]
 file = "config/dice-common.toml"
 hash = "fe8563996fd2c4c3bc87749965c4067cbd852e6245f7a81840f63db297d7597f"
 
@@ -317,6 +305,14 @@ file = "configureddefaults/config/xenon-options.json"
 hash = "4c809d06cb6c0ab89f912b63a109101ada305c6edf81eb2ed489928567d5ee56"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "d466bf237e663a8261ed73630ad25212ddf3e2c4b0afad28f65879976ac0b290"
+
+[[files]]
+file = "configureddefaults/servers.dat"
+hash = "17cf7c29141d233b8ba3ced4958f1246ee76c5ca488029ecd62a29e46083bd24"
+
+[[files]]
 file = "credits.md"
 hash = "4483d804f9aaf90347fd9eb1aa23e868d2d0a6fea6c5c4313aa345df7d594b44"
 
@@ -543,11 +539,6 @@ metafile = true
 [[files]]
 file = "mods/dangerous-firework.pw.toml"
 hash = "7225caa65b7974556d5252ee86af5478bf30bb9dfdc4dfe0f07b467f431d0e12"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
 metafile = true
 
 [[files]]
